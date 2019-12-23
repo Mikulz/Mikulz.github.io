@@ -1049,6 +1049,7 @@ self.C3_JsPropNameTable = [
 		() => 0.1,
 		() => 0.5,
 		() => "Animation 1",
+		() => 0.2,
 		() => "Jump",
 		() => "Run",
 		() => 2,
