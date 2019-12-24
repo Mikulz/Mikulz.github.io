@@ -813,6 +813,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.LoadState,
 		C3.Plugins.System.Acts.SetLayerVisible,
 		C3.Plugins.Button.Cnds.OnClicked,
+		C3.Plugins.Browser.Acts.RequestFullScreen,
 		C3.Plugins.System.Acts.ResetGlobals,
 		C3.Plugins.System.Cnds.LayerVisible,
 		C3.Plugins.System.Acts.SaveState,
